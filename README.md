@@ -10,8 +10,6 @@ A feature-rich todo application built with Vue 3's Composition API featuring:
 - **Real-time filtering** (All/Active/Completed)
 - **Interactive toast notifications**
 
-![App Demo](https://via.placeholder.com/800x500/2D3748/FFFFFF?text=Vue+3+Todo+App) *(Replace with actual screenshot)*
-
 ## ✨ Features
 
 | Feature          | Implementation Details              |
