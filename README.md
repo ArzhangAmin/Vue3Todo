@@ -1,24 +1,25 @@
-# todo-app
+# 🚀 Vue 3 Todo App with Composition API
 
-## Project setup
-```
-npm install
-```
+A modern task management application built with Vue 3's Composition API, featuring drag-and-drop reordering, light/dark theme toggle, and interactive notifications.
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
+## ✨ Features
 
-### Compiles and minifies for production
-```
-npm run build
-```
+- ✅ **Drag & Drop Interface** - Reorder tasks intuitively
+- 🌓 **Light/Dark Mode** - Toggle between themes
+- 🔍 **Smart Filtering** - View All/Active/Completed tasks
+- 📝 **Interactive Notifications** - Toast messages for all actions
+- 📱 **Responsive Design** - Works on all devices
+- 📊 **Live Counter** - Tracks remaining tasks
 
-### Lints and fixes files
-```
-npm run lint
-```
+## 🛠️ Tech Stack
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+- **Vue 3** - Composition API
+- **Vue-toastification** - Beautiful notifications
+- **CSS Variables** - For theme switching
+- **Modern JavaScript** - ES6+ features
+
+## 🚀 Getting Started
+
+1. Clone the repo:
+   ```bash
+   git clone https://github.com/ArzhangAmin/vue3-todo-app.git
