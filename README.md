@@ -22,4 +22,4 @@ A modern task management application built with Vue 3's Composition API, featuri
 
 1. Clone the repo:
    ```bash
-   git clone https://github.com/ArzhangAmin/vue3-todo-app.git
+   git clone https://github.com/ArzhangAmin/Vue3Todo.git
